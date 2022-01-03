@@ -29,15 +29,12 @@ For a design piece that became popular post-war at a time of Modernism and preci
 
 ![]()
 
-<video controls="" width="100%" style="margin-left: auto;margin-right: auto;display: block;" poster="assets/images/VOTRE-RÉUSSITE-SEO-avec-WebForGood.jpg" autoplay="" muted="">
-  <source src="https://webforgood.fr/assets/images/Video-Coaching-SEO.mp4" type="video/mp4">
+<video controls="" width="100%" style="margin-left: auto;margin-right: auto;display: block;" poster="https://webforgood.fr/assets/images/VOTRE-RÉUSSITE-SEO-avec-WebForGood.jpg" autoplay="" muted="">
+  <source src="site/static/img/avis-clients.mp4" type="video/mp4">
   <source src="https://webforgood.fr/assets/images/Video-Coaching-SEO.webm" type="video/webm">
   Your browser doesn't support HTML5 video tag / Veuillez mettre à jour votre navigateur internet.
 </video>
 
-
-
 ```
 code block
-
 ```
